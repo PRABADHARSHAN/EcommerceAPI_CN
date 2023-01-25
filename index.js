@@ -1,6 +1,6 @@
 const express = require('express');
 const app=express();
-const port = 8081;
+const port = 8082;
 const passport = require('passport');
 const db = require('./config/mongoose');
 const bodyParser = require('body-parser')
