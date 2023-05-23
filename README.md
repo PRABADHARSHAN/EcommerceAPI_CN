@@ -13,7 +13,7 @@ Its an Ecommerce API to manage product inventory
 ## How to setup
 
 Repo link 
-https://github.com/raj0811/issueTracker.git
+https://github.com/PRABADHARSHAN/EcommerceAPI_CN
 
 
 > ***Install project with npm***       
